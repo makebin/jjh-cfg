@@ -1,0 +1,12 @@
+{
+  "1.0.5":{
+    "web_url":"https://webapi.zj8866.top",
+    "v":0,
+    "runState":true
+  },
+  "1.0.0":{
+    "web_url":"https://webapi.zj8866.top",
+    "v":0,
+    "runState":true
+  }
+}

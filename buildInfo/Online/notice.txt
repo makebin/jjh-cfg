@@ -1,0 +1,23 @@
+{
+    "msg":"",
+    "startTime":"",
+    "endTime":"",
+    "id":"",
+    "open":false,
+    "ip":{
+        "1.0.5":{
+            "web_url":"https://webapi.zj8866.top",
+            "v":0,
+            "runState":true,
+            "gameId":0,
+            "ipStr":"183.134.16.40:20011"
+        },
+        "1.0.0":{
+            "web_url":"https://webapi.zj8866.top",
+            "v":0,
+            "runState":true,
+            "gameId":0,
+            "ipStr":"183.134.16.40:20011"
+        }
+    }
+}
